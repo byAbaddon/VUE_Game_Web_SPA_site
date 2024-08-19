@@ -4,6 +4,8 @@
 ### Firebase Hosting channels: 
 ### Video intro: https://youtu.be/9yhHVIrmz7M
 
+### images:![img](https://github.com/user-attachments/assets/97ffa736-828c-4575-bfc9-49a61d37e100)
+![aboutPage](https://github.com/user-attachments/assets/ed6ea6b7-a0ae-43c2-a485-5b6b87c4a7b1)
 
 
 This template should help get you started developing with Vue 3 in Vite.
