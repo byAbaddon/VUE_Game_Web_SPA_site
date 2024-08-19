@@ -1,0 +1,15 @@
+{
+  "name": "SPACE BATTLE",
+  "short_name": "SPACE BATTLE",
+  "id": "com.example.gamename",
+  "description": "You are the pilot of a spaceship traveling through interstellar space. On your way, you encounter enemy UFO fleets, with which you enter into battle and finally face the final battle with the mother ship. If you defeat him, the game starts over, continuing to score points as long as you can. Captivating music and effects. Enjoy\n\nHow to play?\nArrow controls: left, right, up and shoot with spacebar.",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "icon.png",
+        "sizes": "512x512"
+      }]
+}
