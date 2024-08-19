@@ -1,10 +1,8 @@
-# game_site
-
-
-
-### video intro: https://youtu.be/9yhHVIrmz7M
-
-
+# Game_baze_site
+### This site contains a catalog of playable games created with Gdevelop
+### Using: vue3 composition, vuetify3
+### Firebase Hosting channels: 
+### Video intro: https://youtu.be/9yhHVIrmz7M
 
 
 
