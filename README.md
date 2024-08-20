@@ -1,7 +1,7 @@
 # Game_baze_site
 ### This site contains a catalog of playable games created with Gdevelop
 ### Using: vue3 composition, vuetify3
-### Firebase Hosting channels: 
+### Firebase Hosting channels: https://game-base-spa.web.app
 ### Video intro: https://youtu.be/9yhHVIrmz7M
 
 ### images:![img](https://github.com/user-attachments/assets/97ffa736-828c-4575-bfc9-49a61d37e100)
